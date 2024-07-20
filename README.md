@@ -1,7 +1,4 @@
-# UPNEXT: Content-based and Context-Aware Movie Recommender System
-<p align="justify">Advanced Data Mining Final Project by Marvee dela Resma and Patrick Guillano La Rosa - March 17, 2022. The code, analysis, and the full report are included in the <a href="https://github.com/pgplarosa/Content-based-and-Context-Aware-Movie-Recommender-System/blob/main/md/Technical%20Report.md">Technical Report</a>. If you have any questions regarding this study, please send me a message via  <a href="https://www.linkedin.com/in/patricklarosa/">LinkedIn</a>.</p>
 
-<img src="./outputs/header.PNG" width=100% />
 
 ## Executive Summary 
 
